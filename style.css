@@ -7,6 +7,16 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.customernote p {
+
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  font-size: 17.5px;
+
+
+
+}
+
 
 
 a,
